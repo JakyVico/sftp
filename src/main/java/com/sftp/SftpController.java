@@ -13,10 +13,10 @@ import com.jcraft.jsch.*;
 
 public class SftpController {
 
-    private static final String USERNAME = "postpago";
-    private static final String HOST = "10.119.142.84";
+    private static final String USERNAME = "po";
+    private static final String HOST = "10.";
     private static final int PORT = 22;
-    private static final String PASSWORD = "vs10e3e1";
+    private static final String PASSWORD = "v";
     private static final String PATHORIGEN = "/postpago/ftpfile/MetricasAjustes/";
     private static final String PATHDESTINO = "/postpago/procesos/Metricas/Ajustes/";
 
